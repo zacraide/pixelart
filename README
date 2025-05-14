@@ -1,0 +1,12 @@
+# Pixel Art Game (My First Project)
+
+This is my very first project, developed during my high school years. It's a **Pixel Art Game** created using **Python** and the **Pygame** library. The game is set in an environment inspired by my high school, where the player interacts with various elements in a pixelated world.
+
+## 🎮 Features:
+- **Pixel Art Style**: The entire game is designed using pixel art, which gives it a retro and nostalgic look.
+- **Interactive Elements**: Players can interact with various objects and characters within the game.
+- **Simple Gameplay**: The game is designed to be easy to play but still offers fun and engaging challenges.
+- **High School Theme**: The setting is based on a fictional version of my high school
+
+## 🧰 Technologies Used:
+- **Python**: The game is built using Python, a versatile and beginner-friendly programming language.
